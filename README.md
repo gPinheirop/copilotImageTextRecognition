@@ -16,3 +16,5 @@ a simple test of copilot image text recognition
   
   Se precisar de mais algum tipo de análise ou contexto, me avise! 😊
 ```
+## Result
+Copilot can understand emojis and text and translate the content to portuguese automatically.
